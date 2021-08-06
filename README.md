@@ -17,7 +17,7 @@
   <img align="center" alt="Pati-sg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Pati-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="80em" alt="Rafa-yoda" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <img align="right" height="80em" alt="Pati-gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
   
   ##
