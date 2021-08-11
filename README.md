@@ -22,7 +22,7 @@
   <img align="center" alt="Pati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   
-  <img align="right" height="80em" alt="Pati-gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <img align="right" height="100em" alt="Pati-gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
   
   ##
